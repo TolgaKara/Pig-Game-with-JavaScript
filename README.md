@@ -9,3 +9,5 @@ This game contains 80% JavaScript code. My goal was to learn and internalize DOM
 2. If you get a number = 1, then it's the other player's turn.
 3. After you reach 100 Points you win.
 4. And the last step is to repeat
+
+[Preview of the game](https://htmlpreview.github.io/?https://github.com/TolgaKara/Pig-Game-with-JavaScript/blob/master/index.html)
